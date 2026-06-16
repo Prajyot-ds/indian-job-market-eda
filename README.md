@@ -8,7 +8,7 @@ top skills, salaries and cities in demand.
 - Python, Pandas, Matplotlib, Seaborn
 
 ## Key Findings
-- (Fill this after project is done)
+- 
 
 ## How to Run
 1. Clone this repo
